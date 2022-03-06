@@ -1,0 +1,8 @@
+{
+    "content_scripts": [
+        {
+            "matches": ["*"],
+            "js": ["remove-fat.js"]
+        }
+    ]
+}
